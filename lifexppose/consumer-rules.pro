@@ -1,0 +1,1 @@
+# LifeXPPose consumer rules
